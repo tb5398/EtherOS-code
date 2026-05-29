@@ -1,0 +1,4 @@
+default 0
+timeout 5
+title EtherOS
+kernel /boot/kernel.elf vga=791
